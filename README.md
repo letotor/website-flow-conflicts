@@ -1,2 +1,2 @@
-# website-flow-conflicts
+REMOTE
 + quelque ligne de description du projet
