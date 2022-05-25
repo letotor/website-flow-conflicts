@@ -1,2 +1,2 @@
-# website-flow-conflicts
+LOCAL
 + quelque ligne de description du projet
